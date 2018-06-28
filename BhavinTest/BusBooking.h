@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BusBooking.h
 //  BhavinTest
 //
 //  Created by bhavin joshi on 27/06/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BusBooking : UIViewController
 
 @end
-

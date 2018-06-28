@@ -8,13 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		119DBB5B20E37CD400E6A137 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBB5A20E37CD400E6A137 /* AppDelegate.m */; };
-		119DBB5E20E37CD400E6A137 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBB5D20E37CD400E6A137 /* ViewController.m */; };
+		119DBB5E20E37CD400E6A137 /* homepage.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBB5D20E37CD400E6A137 /* homepage.m */; };
 		119DBB6120E37CD400E6A137 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB5F20E37CD400E6A137 /* Main.storyboard */; };
 		119DBB6320E37CD500E6A137 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB6220E37CD500E6A137 /* Assets.xcassets */; };
 		119DBB6620E37CD500E6A137 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB6420E37CD500E6A137 /* LaunchScreen.storyboard */; };
 		119DBB6920E37CD500E6A137 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBB6820E37CD500E6A137 /* main.m */; };
 		119DBB7320E37CD500E6A137 /* BhavinTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBB7220E37CD500E6A137 /* BhavinTestTests.m */; };
 		119DBB7E20E37CD500E6A137 /* BhavinTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBB7D20E37CD500E6A137 /* BhavinTestUITests.m */; };
+		119DBB8C20E3B78000E6A137 /* delhi.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB8B20E3B78000E6A137 /* delhi.jpeg */; };
+		119DBB9220E3B99900E6A137 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBB9120E3B99900E6A137 /* TableViewCell.m */; };
+		119DBB9420E3BEBF00E6A137 /* familytour.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB9320E3BEBF00E6A137 /* familytour.jpeg */; };
+		119DBB9620E3BF7A00E6A137 /* coupletour.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB9520E3BF7A00E6A137 /* coupletour.jpeg */; };
+		119DBB9820E3BFB100E6A137 /* booking.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB9720E3BFB100E6A137 /* booking.jpeg */; };
+		119DBB9D20E3C5BE00E6A137 /* manali.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB9920E3C5BE00E6A137 /* manali.jpeg */; };
+		119DBB9E20E3C5BE00E6A137 /* Goa.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB9A20E3C5BE00E6A137 /* Goa.jpeg */; };
+		119DBB9F20E3C5BE00E6A137 /* kerela.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB9B20E3C5BE00E6A137 /* kerela.jpeg */; };
+		119DBBA020E3C5BE00E6A137 /* Kutch.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 119DBB9C20E3C5BE00E6A137 /* Kutch.jpeg */; };
+		119DBBA320E3CD0000E6A137 /* subtableviewcell.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBBA220E3CD0000E6A137 /* subtableviewcell.m */; };
+		119DBBA620E3CD5E00E6A137 /* SubDetail.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBBA520E3CD5E00E6A137 /* SubDetail.m */; };
+		119DBBA920E3EDA800E6A137 /* BusBooking.m in Sources */ = {isa = PBXBuildFile; fileRef = 119DBBA820E3EDA800E6A137 /* BusBooking.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,8 +50,8 @@
 		119DBB5620E37CD400E6A137 /* BhavinTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BhavinTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		119DBB5920E37CD400E6A137 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		119DBB5A20E37CD400E6A137 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		119DBB5C20E37CD400E6A137 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		119DBB5D20E37CD400E6A137 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		119DBB5C20E37CD400E6A137 /* homepage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = homepage.h; sourceTree = "<group>"; };
+		119DBB5D20E37CD400E6A137 /* homepage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = homepage.m; sourceTree = "<group>"; };
 		119DBB6020E37CD400E6A137 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		119DBB6220E37CD500E6A137 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		119DBB6520E37CD500E6A137 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +63,22 @@
 		119DBB7920E37CD500E6A137 /* BhavinTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BhavinTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		119DBB7D20E37CD500E6A137 /* BhavinTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BhavinTestUITests.m; sourceTree = "<group>"; };
 		119DBB7F20E37CD500E6A137 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		119DBB8B20E3B78000E6A137 /* delhi.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = delhi.jpeg; sourceTree = "<group>"; };
+		119DBB9020E3B99900E6A137 /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		119DBB9120E3B99900E6A137 /* TableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+		119DBB9320E3BEBF00E6A137 /* familytour.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = familytour.jpeg; sourceTree = "<group>"; };
+		119DBB9520E3BF7A00E6A137 /* coupletour.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coupletour.jpeg; sourceTree = "<group>"; };
+		119DBB9720E3BFB100E6A137 /* booking.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = booking.jpeg; sourceTree = "<group>"; };
+		119DBB9920E3C5BE00E6A137 /* manali.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = manali.jpeg; sourceTree = "<group>"; };
+		119DBB9A20E3C5BE00E6A137 /* Goa.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Goa.jpeg; sourceTree = "<group>"; };
+		119DBB9B20E3C5BE00E6A137 /* kerela.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kerela.jpeg; sourceTree = "<group>"; };
+		119DBB9C20E3C5BE00E6A137 /* Kutch.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kutch.jpeg; sourceTree = "<group>"; };
+		119DBBA120E3CD0000E6A137 /* subtableviewcell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = subtableviewcell.h; sourceTree = "<group>"; };
+		119DBBA220E3CD0000E6A137 /* subtableviewcell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = subtableviewcell.m; sourceTree = "<group>"; };
+		119DBBA420E3CD5E00E6A137 /* SubDetail.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubDetail.h; sourceTree = "<group>"; };
+		119DBBA520E3CD5E00E6A137 /* SubDetail.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubDetail.m; sourceTree = "<group>"; };
+		119DBBA720E3EDA800E6A137 /* BusBooking.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BusBooking.h; sourceTree = "<group>"; };
+		119DBBA820E3EDA800E6A137 /* BusBooking.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BusBooking.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,15 +129,31 @@
 		119DBB5820E37CD400E6A137 /* BhavinTest */ = {
 			isa = PBXGroup;
 			children = (
+				119DBB9A20E3C5BE00E6A137 /* Goa.jpeg */,
+				119DBB9B20E3C5BE00E6A137 /* kerela.jpeg */,
+				119DBB9C20E3C5BE00E6A137 /* Kutch.jpeg */,
+				119DBB9920E3C5BE00E6A137 /* manali.jpeg */,
+				119DBB9520E3BF7A00E6A137 /* coupletour.jpeg */,
+				119DBB8B20E3B78000E6A137 /* delhi.jpeg */,
+				119DBB9720E3BFB100E6A137 /* booking.jpeg */,
+				119DBB9320E3BEBF00E6A137 /* familytour.jpeg */,
 				119DBB5920E37CD400E6A137 /* AppDelegate.h */,
 				119DBB5A20E37CD400E6A137 /* AppDelegate.m */,
-				119DBB5C20E37CD400E6A137 /* ViewController.h */,
-				119DBB5D20E37CD400E6A137 /* ViewController.m */,
+				119DBB5C20E37CD400E6A137 /* homepage.h */,
+				119DBB5D20E37CD400E6A137 /* homepage.m */,
 				119DBB5F20E37CD400E6A137 /* Main.storyboard */,
 				119DBB6220E37CD500E6A137 /* Assets.xcassets */,
 				119DBB6420E37CD500E6A137 /* LaunchScreen.storyboard */,
 				119DBB6720E37CD500E6A137 /* Info.plist */,
 				119DBB6820E37CD500E6A137 /* main.m */,
+				119DBB9020E3B99900E6A137 /* TableViewCell.h */,
+				119DBB9120E3B99900E6A137 /* TableViewCell.m */,
+				119DBBA120E3CD0000E6A137 /* subtableviewcell.h */,
+				119DBBA220E3CD0000E6A137 /* subtableviewcell.m */,
+				119DBBA420E3CD5E00E6A137 /* SubDetail.h */,
+				119DBBA520E3CD5E00E6A137 /* SubDetail.m */,
+				119DBBA720E3EDA800E6A137 /* BusBooking.h */,
+				119DBBA820E3EDA800E6A137 /* BusBooking.m */,
 			);
 			path = BhavinTest;
 			sourceTree = "<group>";
@@ -235,9 +279,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				119DBB8C20E3B78000E6A137 /* delhi.jpeg in Resources */,
+				119DBB9D20E3C5BE00E6A137 /* manali.jpeg in Resources */,
+				119DBBA020E3C5BE00E6A137 /* Kutch.jpeg in Resources */,
+				119DBB9620E3BF7A00E6A137 /* coupletour.jpeg in Resources */,
+				119DBB9820E3BFB100E6A137 /* booking.jpeg in Resources */,
 				119DBB6620E37CD500E6A137 /* LaunchScreen.storyboard in Resources */,
 				119DBB6320E37CD500E6A137 /* Assets.xcassets in Resources */,
+				119DBB9E20E3C5BE00E6A137 /* Goa.jpeg in Resources */,
+				119DBB9420E3BEBF00E6A137 /* familytour.jpeg in Resources */,
 				119DBB6120E37CD400E6A137 /* Main.storyboard in Resources */,
+				119DBB9F20E3C5BE00E6A137 /* kerela.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +314,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				119DBB5E20E37CD400E6A137 /* ViewController.m in Sources */,
+				119DBB5E20E37CD400E6A137 /* homepage.m in Sources */,
+				119DBBA320E3CD0000E6A137 /* subtableviewcell.m in Sources */,
+				119DBB9220E3B99900E6A137 /* TableViewCell.m in Sources */,
+				119DBBA920E3EDA800E6A137 /* BusBooking.m in Sources */,
 				119DBB6920E37CD500E6A137 /* main.m in Sources */,
 				119DBB5B20E37CD400E6A137 /* AppDelegate.m in Sources */,
+				119DBBA620E3CD5E00E6A137 /* SubDetail.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,12 +490,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = T7TYT9DM27;
 				INFOPLIST_FILE = BhavinTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ff.BhavinTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stemmons.stemmonsxamarin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -450,12 +507,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = T7TYT9DM27;
 				INFOPLIST_FILE = BhavinTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = ff.BhavinTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stemmons.stemmonsxamarin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
